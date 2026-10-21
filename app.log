@@ -1,0 +1,8 @@
+INFO User logged in
+ERROR Database failed
+INFO File uploaded
+WARNING Low memory
+ERROR API failed
+INFO User logged out
+ERROR Database failed2026-10-10 21:05:24,872 - INFO - App started
+2026-10-10 21:05:24,873 - WARNING - Low storage warning

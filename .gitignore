@@ -1,0 +1,39 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE settings
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+.mypy_cache/
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data and models (usually too large for Git)
+*.csv
+*.parquet
+*.h5
+*.pt
+*.pth
+*.onnx
+data/
+CLAUDE-ARTEFACTS/
+graft/
+models/
+vvi/
+
+# Images and videos (remove these lines if you want them in the repo)
+*.jpg
+*.png
+*.mp4
+
+# Secrets: never commit these
+.env
+*.key
+secrets.json
